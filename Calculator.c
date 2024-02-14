@@ -4,6 +4,7 @@ int main() {
 
   char op;
   double first, second;
+printf("New line added in feature branch");
   printf("Enter an operator (+, -, *, /): ");
   scanf("%c", &op);
   printf("Enter two operands: ");
